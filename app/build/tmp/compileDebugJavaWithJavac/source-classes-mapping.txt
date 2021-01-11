@@ -1,0 +1,23 @@
+ua/kpi/comsys/iv7214/moviesapp/Movie.java
+ ua.kpi.comsys.iv7214.moviesapp.Movie
+ua/kpi/comsys/iv7214/moviesapp/BuildConfig.java
+ ua.kpi.comsys.iv7214.moviesapp.BuildConfig
+ua/kpi/comsys/iv7214/moviesapp/Reader.java
+ ua.kpi.comsys.iv7214.moviesapp.Reader
+ua/kpi/comsys/iv7214/moviesapp/Create.java
+ ua.kpi.comsys.iv7214.moviesapp.Create
+ ua.kpi.comsys.iv7214.moviesapp.Create$1
+ua/kpi/comsys/iv7214/moviesapp/Adaptery.java
+ ua.kpi.comsys.iv7214.moviesapp.Adaptery
+ ua.kpi.comsys.iv7214.moviesapp.Adaptery$1
+ ua.kpi.comsys.iv7214.moviesapp.Adaptery$2
+ ua.kpi.comsys.iv7214.moviesapp.Adaptery$MyViewHolder
+ua/kpi/comsys/iv7214/moviesapp/MainActivity.java
+ ua.kpi.comsys.iv7214.moviesapp.MainActivity
+ ua.kpi.comsys.iv7214.moviesapp.MainActivity$1
+ ua.kpi.comsys.iv7214.moviesapp.MainActivity$2
+ ua.kpi.comsys.iv7214.moviesapp.MainActivity$3
+ ua.kpi.comsys.iv7214.moviesapp.MainActivity$GetData
+ua/kpi/comsys/iv7214/moviesapp/Info.java
+ ua.kpi.comsys.iv7214.moviesapp.Info
+ ua.kpi.comsys.iv7214.moviesapp.Info$1
